@@ -45,8 +45,23 @@ footer {
 <nav>
 
 Home<br>
+<a href="/html/index.htm" target=
+"_blank">home</a>
+</br>
+
+
 About Us<br>
+<a href="/html/index.htm" target=
+"_blanK">About</a>
+</br>
+
+
 Our Work<br>
+<a href="/html/index.htm" target=
+"_blank">work</a>
+</br>
+
+
 
 </nav>
 
